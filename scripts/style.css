@@ -1,0 +1,21 @@
+{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body {
+
+    weight: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+#gameScreen1 {
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+}
