@@ -12,13 +12,11 @@ class Deck {
 class Card {
 
     //Constructor that declares the variable
-    constructor(type, health) {
+    constructor(type) {
 
         //What type the pokemon is
         this.type = type;
 
-        //How much health the pokemon has
-        this.health = health;
     }
 
 }
